@@ -3,3 +3,5 @@ Step 2: Get HTTPS/SSH
 
 Step 3: git remote add origin <HTTPS/SSH link>
 Step 4: git push origin <branch> (normal is master)
+
+DONE
