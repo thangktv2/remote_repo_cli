@@ -4,4 +4,9 @@ Step 2: Get HTTPS/SSH
 Step 3: git remote add origin <HTTPS/SSH link>
 Step 4: git push origin <branch> (normal is master)
 
+fatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+git push --set-upstream origin master
+
 DONE
